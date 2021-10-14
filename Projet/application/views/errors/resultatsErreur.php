@@ -1,0 +1,1 @@
+<h2 class="erreur">Impossible de voir les résultats, veuillez réessayer plus tard</h2>

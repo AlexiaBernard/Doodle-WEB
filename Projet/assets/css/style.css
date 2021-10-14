@@ -1,0 +1,34 @@
+body {
+  text-align:center;
+}
+
+.footer{
+	bottom: 0;
+	width: 97%;
+	padding-top:50px;
+	padding-right: 2%;
+}
+
+.tableau{
+	min-height:400px;
+	height:400px;
+	min-width:700px;
+	width:900px;
+	overflow:auto;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.tr{
+	text-align:center;
+}
+
+.info2{
+	text-align: left;
+	float:left;
+}
+
+.erreur{
+	color:red;
+}
+

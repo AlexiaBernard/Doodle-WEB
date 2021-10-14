@@ -1,0 +1,1 @@
+<h2 class="erreur">Erreur durant la désinscritpion</h2>

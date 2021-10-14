@@ -1,0 +1,1 @@
+<h2 class="erreur">Problème d'inscription ! Veuillez réessayer</h2>
